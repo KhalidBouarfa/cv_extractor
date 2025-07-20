@@ -1,0 +1,7 @@
+spacy==3.7.2
+pdfplumber==0.10.4
+streamlit==1.29.0
+pandas==2.1.4
+regex==2023.10.3
+python-multipart==0.0.6
+fr_core_news_lg @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_lg-3.8.0/fr_core_news_lg-3.8.0-py3-none-any.whl
